@@ -1,4 +1,4 @@
-### Hi there i'm Wesley 👋
+### Hi there i'm Wesley 😎👋
 - 🕷️ I’m currently working with Web Scraping
 - 📘 I’m currently learning Clean Code 
 - 🇺🇸 I'm currently learning English
