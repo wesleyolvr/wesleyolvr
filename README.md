@@ -1,5 +1,5 @@
 ### Hi there i'm Wesley 😎👋
-- 🕷️ I’m currently working with Web Scraping
+- 🕷️ I’m currently working with Data Engineer
 - 📘 I’m currently learning Clean Code 
 - 🇺🇸 I'm currently learning English
 <div align="left">
