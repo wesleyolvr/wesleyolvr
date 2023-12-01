@@ -1,7 +1,5 @@
 ### Hi there i'm Wesley 😎👋
 - 🕷️ I’m currently working with Data Engineer
-- 📘 I’m currently learning Clean Code 
-- 🇺🇸 I'm currently learning English
 <div align="left">
   <a href="https://github.com/wesleyolvr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleyolvr&layout=compact&langs_count=7&theme=panda"/>
