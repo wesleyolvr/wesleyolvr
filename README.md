@@ -1,6 +1,6 @@
 # Hi there, I'm Wesley Oliveira! 🚀
 
-🇺🇸 [Read in English](#english-version) | 🇵🇹 [Ler em Português](#versão-em-português)
+ 🇵🇹 [Ler em Português](#versão-em-português) | 🇺🇸 [Read in English](#english-version) 
 ## 🇵🇹 Versão em Português
 
 **Engenheiro de Dados | AWS & Databricks | Arquitetura Lakehouse**
