@@ -24,7 +24,7 @@ Onde a maioria dos pipelines falha, eu atuo: o meu principal fator de diferencia
 * Desenvolvimento do **[DataRadar](https://github.com/wesleyolvr/DataRadar)**: Um pipeline Lakehouse que orquestra dados do Reddit e integra modelos de inteligência artificial (Llama 3.3) para extração de insights através da Groq API.
 
 ### 🏆 Certificações
-* **Databricks Certified Data Engineer Associate** (2024)
+* **Databricks Certified Databricks Fundamentals** (2026)
 
 ### 📫 Vamos conectar!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyolvr/)
@@ -55,7 +55,7 @@ Where most pipelines fail, I thrive: my core differentiator is **High-Complexity
 * Building **[DataRadar](https://github.com/wesleyolvr/DataRadar)**: A Lakehouse pipeline orchestrating Reddit data with LLM (Llama 3.3) insights via Groq API.
 
 ### 🏆 Certifications
-* **Databricks Certified Data Engineer Associate** (2024)
+* **Databricks Certified Databricks Fundamentals** (2026)
 
 ### 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesleyolvr/)
